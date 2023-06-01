@@ -1,0 +1,185 @@
+[
+    {
+        "nome": "Pasta de Alho Assado",
+        "ingredientes": ["Alho", "Azeite de Oliva"],
+        "imagem": "pasta_de_alho_assado.png",
+        "quantidade": "1 cabeça de alho.\n Azeite de oliva",
+        "modo": "1. Preaqueça o forno a 180°C.\n2. Corte a parte superior de uma cabeça de alho, expondo os dentes de alho.\n3. Coloque a cabeça de alho em uma folha de papel alumínio e regue com azeite de oliva.\n4. Feche bem o papel alumínio, formando uma bolsa para assar o alho.\n5. Coloque a bolsa de papel alumínio em uma assadeira e leve ao forno por cerca de 30 minutos, ou até que o alho esteja macio e dourado.\n6. Retire o alho assado do forno e deixe esfriar.\n7. Esprema os dentes de alho assados em um recipiente e adicione azeite de oliva.\n8. Com a ajuda de um garfo, amasse os dentes de alho até formar uma pasta homogênea.\n9. Se desejar, adicione sal e pimenta a gosto.\n10. A pasta de alho assado está pronta para ser utilizada como acompanhamento, tempero ou ingrediente em diversas receitas."
+    },
+    {
+        "nome": "Patê de Alho Assado",
+        "ingredientes": ["Alho", "Azeite de Oliva"],
+        "imagem": "pate_de_alho_assado.png",
+        "quantidade": "1 cabeça de alho. \n Azeite de oliva",
+        "modo": "1. Preaqueça o forno a 180°C.\n2. Corte a parte superior de uma cabeça de alho, expondo os dentes de alho.\n3. Coloque a cabeça de alho em uma folha de papel alumínio e regue com azeite de oliva.\n4. Feche bem o papel alumínio, formando uma bolsa para assar o alho.\n5. Coloque a bolsa de papel alumínio em uma assadeira e leve ao forno por cerca de 30 minutos, ou até que o alho esteja macio e dourado.\n6. Retire o alho assado do forno e deixe esfriar.\n7. Esprema os dentes de alho assados em um recipiente e adicione azeite de oliva.\n8. Com a ajuda de um garfo, amasse os dentes de alho até formar uma pasta homogênea.\n9. Se desejar, adicione sal e pimenta a gosto.\n10. O patê de alho assado está pronto para ser servido e aproveitado em sanduíches, torradas ou como acompanhamento."
+      },
+      {
+        "nome": "Alho Assado",
+        "ingredientes": ["Alho", "Azeite de Oliva", "Orégano"],
+        "imagem": "alho_assado.png",
+        "quantidade": "1 cabeça de alho.\n Azeite de oliva. \n Orégano",
+        "modo": "1. Preaqueça o forno a 180°C.\n2. Corte a parte superior de uma cabeça de alho, expondo os dentes de alho.\n3. Coloque a cabeça de alho em uma folha de papel alumínio e regue com azeite de oliva.\n4. Polvilhe orégano sobre os dentes de alho.\n5. Feche bem o papel alumínio, formando uma bolsa para assar o alho.\n6. Coloque a bolsa de papel alumínio em uma assadeira e leve ao forno por cerca de 30 minutos, ou até que o alho esteja macio e dourado.\n7. Retire o alho assado do forno e deixe esfriar.\n8. Os dentes de alho assados podem ser consumidos diretamente ou utilizados como ingrediente em outras preparações."
+      },      
+      {
+        "nome": "Arroz de Alho",
+        "ingredientes": ["Arroz", "Alho", "Óleo"],
+        "imagem": "arroz_de_alho.png",
+        "quantidade": "2 xícaras de chá de arroz\n6 dentes de alho\n2 colheres de sopa de óleo",
+        "modo": "1. Em uma panela, aqueça o óleo em fogo médio.\n2. Adicione os dentes de alho picados e deixe dourar levemente, mexendo constantemente para não queimar.\n3. Acrescente o arroz e mexa bem para envolver os grãos no óleo e no alho.\n4. Adicione a água, sal a gosto e mexa novamente.\n5. Deixe a água ferver e, em seguida, reduza o fogo para baixo.\n6. Tampe a panela e deixe o arroz cozinhar por aproximadamente 15-20 minutos, ou até que esteja macio e toda a água tenha sido absorvida.\n7. Desligue o fogo e deixe o arroz descansar por alguns minutos antes de servir.\n8. Sirva o arroz de alho quente como acompanhamento de carnes, aves, peixes ou como prato principal."
+      },
+  {
+    "nome": "Pão de Alho",
+    "ingredientes": ["Pão", "Manteiga", "Alho", "Orégano"],
+    "imagem": "pao_de_alho.png",
+    "quantidade": "100g de manteiga amolecida. \n4 dentes de alho picados. \n1 colher de sopa de orégano.",
+    "modo": "1. Pré-aqueça o forno a 180°C.\n2. Corte o pão em fatias, sem separá-las por completo, deixando a base intacta.\n3. Em uma tigela, misture a manteiga amolecida, o alho picado e o orégano.\n4. Com cuidado, espalhe a mistura de manteiga, alho e orégano entre as fatias de pão.\n5. Embrulhe o pão em papel alumínio, deixando a parte de cima aberta.\n6. Leve o pão ao forno por aproximadamente 10-15 minutos, ou até que a manteiga derreta e o pão fique levemente crocante.\n7. Retire o papel alumínio e deixe o pão dourar por mais alguns minutos.\n8. Retire do forno e sirva o pão de alho quentinho como acompanhamento de churrascos, lanches ou como petisco."
+  },
+  {
+    "nome": "Macarrão de Alho e Óleo",
+    "ingredientes": ["Macarrão", "Alho", "Óleo", "Manteiga"],
+    "imagem": "macarrao_de_alho_e_oleo.png",
+    "quantidade": "300g de macarrão. \n 4 dentes de alho. \n 2 colheres de sopa de óleo. \n 2 colheres de sopa de manteiga.",
+    "modo": "1. Cozinhe o macarrão em água fervente com sal até ficar al dente. Escorra e reserve.\n2. Enquanto o macarrão cozinha, em uma frigideira grande, aqueça o óleo e a manteiga em fogo baixo.\n3. Adicione o alho picado e deixe dourar levemente, tomando cuidado para não queimar.\n4. Acrescente o macarrão cozido na frigideira e misture bem, envolvendo o macarrão no óleo e no alho.\n5. Tempere com sal e pimenta a gosto.\n6. Cozinhe por mais alguns minutos, mexendo ocasionalmente, para que o macarrão absorva os sabores.\n7. Retire do fogo e sirva o macarrão de alho e óleo quente, polvilhado com queijo parmesão ralado, se desejar."
+  },
+  {
+    "nome": "Bacalhau com chips de alho",
+    "ingredientes": ["Bacalhau", "Alho", "Azeite de Oliva", "Limão"],
+    "imagem": "bacalhau_com_chips_de_alho.png",
+    "quantidade": "500 gramas de bacalhau (2 postas grandes). \n ½ limão. \n 8 dentes de alho cortados em lâmina. \n 100 ml de azeite de oliva. \n Pimenta-do-reino moída a gosto. \n Sal a gosto.",
+    "modo": "1. Pré-aqueça o forno a 180°C.\n2. Lave bem o bacalhau em água corrente para retirar o excesso de sal. Se necessário, deixe o bacalhau de molho em água gelada por 24 horas, trocando a água algumas vezes.\n3. Em uma assadeira, coloque o bacalhau e regue com azeite de oliva.\n4. Adicione os dentes de alho inteiros e o suco de limão sobre o bacalhau.\n5. Cubra a assadeira com papel alumínio e leve ao forno por aproximadamente 40 minutos, ou até o bacalhau ficar macio e desfiando.\n6. Retire o papel alumínio e deixe o bacalhau dourar por mais 10 minutos no forno.\n7. Enquanto o bacalhau assa, prepare os chips de alho: corte o alho em fatias finas.\n8. Em uma frigideira, aqueça o azeite de oliva e frite as fatias de alho até ficarem douradas e crocantes. Retire do óleo e reserve.\n9. Retire o bacalhau do forno e desfie-o em pedaços grandes.\n10. Sirva o bacalhau com os chips de alho por cima, acompanhado de arroz branco e salada verde, se desejar."
+  },
+  {
+    "nome": "Manteiga com tomilho e alho",
+    "ingredientes": ["Manteiga", "Alho", "Tomilho"],
+    "imagem": "manteiga_com_tomilho_e_alho.png",
+    "quantidade": "200g de manteiga sem sal. \n 2 cabeças de alho. \n 2 ramos de tomilho. \n 1 flor de sal (opcional).",
+    "modo": "1. Retire a manteiga da geladeira e deixe em temperatura ambiente por cerca de 15 minutos, para amolecer.\n2. Descasque e pique finamente os dentes de alho.\n3. Em uma tigela, misture a manteiga amolecida, o alho picado e as folhas de tomilho.\n4. Tempere com sal e pimenta a gosto e misture bem até obter uma pasta homogênea.\n5. Transfira a manteiga de tomilho e alho para um recipiente ou molde de sua preferência.\n6. Leve à geladeira por pelo menos 1 hora, ou até que a manteiga esteja firme.\n7. A manteiga com tomilho e alho está pronta para ser utilizada em torradas, carnes grelhadas, legumes cozidos, entre outras preparações."
+  },
+  {
+    "nome": "Tortéi com recheio de Abóbora",
+    "ingredientes": [
+      "Massa de pastel",
+      "Abóbora",
+      "Tomate",
+      "Alho",
+      "Óleo",
+      "Farinha de rosca",
+      "Noz moscada"
+    ],
+    "imagem": "tortei.png",
+    "quantidade": "500 g de massa fresca para canelone. \n 500 g de abóbora japonesa sem casca, cozida e espremida. \n ½ meia colher de chá de alho e sal. \n 1 colher de sopa de óleo. \n ½ cebola pequena picada. \n 2 tomates grandes, sem sementes, picadinhos. \n 1 caixa de polpa de tomate (520ml). \n ½ xícara de chá de água.",
+    "modo": "1. Descasque e corte a abóbora em cubos pequenos.\n2. Em uma panela, aqueça o óleo e refogue o alho picado até ficar dourado.\n3. Adicione a abóbora e refogue por alguns minutos.\n4. Acrescente o tomate picado e cozinhe até que a abóbora esteja macia.\n5. Retire a panela do fogo e deixe a mistura esfriar.\n6. Em um recipiente, amasse bem a abóbora cozida até obter um purê.\n7. Tempere com sal, pimenta e noz moscada a gosto.\n8. Em uma superfície lisa, abra a massa de pastel e corte em pequenos círculos.\n9. Coloque uma porção do recheio de abóbora no centro de cada círculo de massa.\n10. Dobre a massa ao meio, formando meia lua, e pressione as bordas para fechar bem o tortei.\n11. Repita o processo com o restante da massa e do recheio.\n12. Em uma panela com água fervente e sal, cozinhe os tortei até que fiquem macios.\n13. Retire os tortei da água com uma escumadeira e coloque em um prato.\n14. Em uma frigideira, aqueça um pouco de óleo e doure os tortei dos dois lados.\n15. Polvilhe um pouco de farinha de rosca sobre os tortei antes de servir.\n16. Os tortei com recheio de abóbora estão prontos para serem saboreados!"
+  },
+  {
+    "nome": "Creme de Galinha",
+    "ingredientes": ["Frango", "Leite", "Creme de Leite", "Milho", "Ovos"],
+    "imagem": "creme_de_galinha.png",
+    "quantidade": "500g de frango. \n 500ml de leite. \n 200g de creme de leite. \n 1 lata de milho.\n 2 ovos",
+    "modo": "1. Cozinhe o frango em água temperada com sal e temperos de sua preferência.\n2. Após o frango estar cozido, desfie em pedaços pequenos.\n3. Em uma panela, aqueça um pouco de óleo e refogue o frango desfiado.\n4. Adicione o milho e refogue por mais alguns minutos.\n5. Em outra panela, aqueça o leite em fogo médio.\n6. Quando o leite estiver quente, adicione o creme de leite e misture bem.\n7. Em uma tigela, bata os ovos e adicione um pouco do leite quente, mexendo rapidamente para temperar os ovos.\n8. Despeje a mistura de ovos temperados na panela com o leite quente, mexendo constantemente.\n9. Continue mexendo até que o creme engrosse e fique homogêneo.\n10. Adicione o frango e o milho refogados ao creme, misturando bem.\n11. Cozinhe por mais alguns minutos, apenas para aquecer o frango e o milho.\n12. Tempere o creme de galinha com sal, pimenta e outros temperos de sua preferência.\n13. Sirva o creme de galinha quente, acompanhado de pão ou torradas."
+  },
+  {
+    "nome": "Panqueca",
+    "ingredientes": ["Farinha de trigo", "Manteiga", "Leite", "Ovos"],
+    "imagem": "panqueca.png",
+    "quantidade": "1 xícara de farinha de trigo. \n 2 colheres de sopa de manteiga derretida. \n 2 xícaras de leite. \n 2 ovos.",
+    "modo": "1. Em uma tigela, peneire a farinha de trigo.\n2. Adicione os ovos e o leite à tigela, e misture bem até obter uma massa homogênea.\n3. Aqueça uma frigideira antiaderente em fogo médio e adicione um pouco de manteiga para untar.\n4. Despeje uma porção da massa de panqueca na frigideira, espalhando-a de forma a cobrir todo o fundo.\n5. Deixe cozinhar por alguns minutos, até que a parte inferior da panqueca esteja dourada.\n6. Vire a panqueca com o auxílio de uma espátula e deixe cozinhar do outro lado.\n7. Repita o processo com o restante da massa, adicionando mais manteiga à frigideira conforme necessário.\n8. Empilhe as panquecas prontas em um prato.\n9. Sirva as panquecas quentes, acompanhadas do recheio e da cobertura de sua preferência, como carne, frango, queijo, legumes, mel, geleia, entre outros."
+  },
+  {
+    "nome": "Milkshake de chocolate",
+    "ingredientes": ["Chocolate", "Chantilly"],
+    "imagem": "milkshake_de_chocolate.png",
+    "quantidade": "150g de chocolate. \n Chantily a gosto.",
+    "modo": "1. Derreta o chocolate em banho-maria ou no micro-ondas, mexendo até ficar completamente derretido e liso.\n2. Deixe o chocolate derretido esfriar um pouco.\n3. Em um liquidificador, adicione o chocolate derretido e o chantilly.\n4. Bata em velocidade média-alta até obter uma mistura cremosa e homogênea.\n5. Desligue o liquidificador e verifique se o milkshake está na consistência desejada. Se necessário, adicione mais chantilly e bata novamente.\n6. Despeje o milkshake em copos altos e decore com chantilly adicional, raspas de chocolate ou qualquer outra cobertura de sua preferência.\n7. Sirva imediatamente e aproveite o delicioso milkshake de chocolate!"
+  },
+  {
+    "nome": "Mousse de chocolate",
+    "ingredientes": ["Creme de Leite", "Chocolate", "Ovos", "Manteiga"],
+    "imagem": "mousse_de_chocolate.png",
+    "quantidade": "200g de creme de leite. \n 200g de chocolate. \n 3 ovos. \n 50g de manteiga.",
+    "modo": "1. Derreta o chocolate e a manteiga em banho-maria ou no micro-ondas, mexendo bem até obter uma mistura lisa e homogênea.\n2. Separe as gemas das claras dos ovos.\n3. Em uma tigela, misture as gemas ao chocolate derretido e incorpore bem.\n4. Em outra tigela, bata o creme de leite até obter picos firmes.\n5. Adicione o creme de leite batido à mistura de chocolate e gemas, incorporando delicadamente até ficar homogêneo.\n6. Bata as claras em neve até obter picos firmes.\n7. Acrescente as claras em neve à mistura de chocolate, incorporando com movimentos suaves e envolventes.\n8. Divida a mousse em taças ou recipientes individuais e leve à geladeira por pelo menos 2 horas, ou até que esteja firme.\n9. Sirva gelado e decore com raspas de chocolate, se desejar.\n\nDesfrute dessa deliciosa mousse de chocolate!"
+  },
+  {
+    "nome": "Salada de Grão de Bico com Chia",
+    "ingredientes": ["Cenoura", "Cebola", "Semente de Chia", "Grão de Bico"],
+    "imagem": "salada-grao-de-bico.jpg",
+    "quantidade": "4 xícaras de grão de bico cozido. \n 2 tomates picados. \n 2 colheres de spá de chia. \n 2 cenouras raladas. \n 1 cebola em fatias finas. \n Sal.",
+    "modo": "1. Cozinhe 1 xícara de grão de bico em água fervente até que fiquem macios. Escorra e reserve.\n2. Descasque e rale 1 cenoura média.\n3. Pique 1 cebola pequena em cubos pequenos.\n4. Em uma tigela, misture o grão de bico cozido, a cenoura ralada, a cebola picada e 2 colheres de sopa de semente de chia.\n5. Tempere a salada com azeite de oliva, suco de limão, sal e pimenta a gosto.\n6. Misture bem todos os ingredientes para garantir que fiquem bem incorporados.\n7. Deixe a salada descansar na geladeira por pelo menos 30 minutos para que os sabores se combinem.\n8. Sirva a Salada de Grão de Bico com Chia como acompanhamento ou como prato principal."
+  },
+  {
+    "nome": "Hambúrguer de Soja",
+    "ingredientes": [
+      "Óleo",
+      "Orégano",
+      "Cominho",
+      "Alho",
+      "Cebola",
+      "Azeite de Oliva",
+      "Proteína de Soja",
+      "Molho Shoyu"
+    ],
+    "imagem": "hamburguer-de-soja.jpeg",
+    "quantidade": "3 xícaras de chá de proteína de soja. \n 2 xícaras de chá de água quente. \n 3 colheres de sopa de molho shoyu. \n 1/4 de xícara de chá de azeite de oliva. \n 1 cebola ralada. \n 1/2 cabeça de alho amassada. \n 1/2 colher de chá de cominho em pó. \n 1 colher de sopa de orégano. \n 1 xícara de chá de salsa e cebolinha. \n Sal e pimenta-do-reino a gosto. \n 1 e 1/2 xícara de chá de farinha de rosca. \n Óleo para untar",
+    "modo": "1. Em uma tigela, hidrate 1 xícara de proteína de soja com água quente por aproximadamente 10 minutos. Escorra e reserve.\n2. Em uma frigideira, aqueça 2 colheres de sopa de óleo e refogue 1 cebola média picada e 2 dentes de alho picados até ficarem dourados.\n3. Adicione a proteína de soja hidratada na frigideira e tempere com 1 colher de chá de orégano, 1 colher de chá de cominho, sal e pimenta a gosto.\n4. Refogue por alguns minutos até que a proteína de soja absorva os temperos e fique bem cozida.\n5. Retire a mistura do fogo e deixe esfriar um pouco.\n6. Transfira a mistura para um processador de alimentos e adicione 2 colheres de sopa de azeite de oliva e 1 colher de sopa de molho shoyu.\n7. Processe a mistura até obter uma massa homogênea e consistente.\n8. Modele a massa em formato de hambúrgueres.\n9. Em uma frigideira aquecida com um pouco de óleo, grelhe os hambúrgueres de soja por cerca de 4 minutos de cada lado ou até ficarem dourados.\n10. Sirva os hambúrgueres de soja em pães de hambúrguer com os acompanhamentos de sua preferência."
+  },
+  {
+    "nome": "Tofu Alho e Óleo",
+    "ingredientes": [
+      "Alho",
+      "Amido de Milho",
+      "Molho Shoyu",
+      "Cebola",
+      "Gengibre"
+    ],
+    "imagem": "tofu-alho-e-oleo.jpg",
+    "quantidade": "400 gramas de tofu firme.\n 200 gramas de amido de milho. \n 3 colheres de sopa de óleo vegetal. \n 1 colher de sopa de gengibre ralado. \n 4 dentes de alho picados. \n5 colheres de sopa de shoyu \n Cebolinha picada a gosto.",
+    "modo": "1. Em uma tigela pequena, misture 2 colheres de sopa de amido de milho com 2 colheres de sopa de molho shoyu até dissolver o amido completamente.\n2. Corte 200g de tofu em cubos e reserve.\n3. Em uma frigideira, aqueça um pouco de óleo e adicione 3 dentes de alho picados e 1 cebola pequena picada. Refogue até dourarem levemente.\n4. Adicione os cubos de tofu na frigideira e mexa delicadamente para envolver todos os pedaços com o alho e a cebola.\n5. Acrescente a mistura de amido de milho e molho shoyu na frigideira e mexa bem para que o molho se incorpore aos ingredientes.\n6. Rale um pouco de gengibre fresco por cima do tofu e continue mexendo até que o molho engrosse e envolva todo o tofu.\n7. Cozinhe por mais alguns minutos, mexendo sempre, até o tofu ficar bem aquecido e o molho atingir a consistência desejada.\n8. Retire do fogo e sirva o Tofu Alho e Óleo acompanhado de arroz ou legumes salteados."
+  },
+  {
+    "nome": "Cookies de Chocolate",
+    "ingredientes": [
+      "Farinha de trigo",
+      "Aveia em Flocos",
+      "Açúcar mascavo",
+      "Manteiga",
+      "Cacau em pó",
+      "Ovos",
+      "Fermento químico",
+      "Chocolate Meio-Amargo",
+      "Essência de Baunilha"
+    ],
+    "imagem": "cookie-de-chocolate.jpg",
+    "quantidade": "3 xícaras de farinha de trigpo. \n 1 xícara de aveia em flocos. \n 2 xícaras de açúcar mascavo peneirado. \n 250g de manteiga sem sal em temperatura ambiente. \n 1/2 xícara de cacau em pó. \n 2 colheres de sopa de essência de baunilha. \n 2 ovos. \n 2 colheres de sobremesa de fermento. \n 200g de gotas de chocolate de fermento. \n Papel manteiga.",
+    "modo": "1. Pré-aqueça o forno a 180°C.\n\n2. Em uma tigela grande, misture a farinha de trigo, a aveia em flocos, o açúcar mascavo e o cacau em pó. Certifique-se de que todos os ingredientes secos estejam bem combinados.\n\n3. Adicione a manteiga amolecida à mistura seca e misture bem até obter uma massa esfarelada.\n\n4. Em seguida, adicione os ovos e a essência de baunilha à massa e misture até que os ingredientes estejam bem incorporados.\n\n5. Quebre o chocolate meio-amargo em pedaços pequenos e adicione-os à massa. Misture bem para distribuir o chocolate de maneira uniforme.\n\n6. Por fim, adicione o fermento e misture suavemente.\n\n7. Com as mãos levemente"
+  },
+  {
+    "nome": "Cookies de Aveia e Mel",
+    "ingredientes": [
+      "Aveia em Flocos",
+      "Farinha de trigo",
+      "Açúcar mascavo",
+      "Mel",
+      "Manteiga",
+      "Ovos",
+      "Fermento em pó"
+    ],
+    "imagem": "cookie-aveia-e-mel.jpg",
+    "quantidade": "1 ½ xícara de chá de farinha de trigo. \n 1 ½ xícara de chá de aveia em flocos. \n 1 ½ xícara de chá de açúcar mascavo. \n 3 colheres de sopa de mel. \n 1 ½ colher de chá de fermento em pó. \n 1 ovo + 1 clara. \n 2 colheres de sopa de manteiga.",
+    "modo": "1. Pré-aqueça o forno a 180°C.\n\n2. Em uma tigela grande, misture a aveia em flocos, a farinha de trigo, o açúcar mascavo, o fermento em pó e uma pitada de sal. Certifique-se de que todos os ingredientes secos estejam bem combinados.\n\n3. Em uma panela, aqueça o mel e a manteiga em fogo baixo até que a manteiga esteja derretida. Retire do fogo e deixe esfriar por alguns minutos.\n\n4. Adicione os ovos e o extrato de baunilha à mistura de mel e manteiga e misture bem.\n\n5. Despeje a mistura líquida sobre os ingredientes secos e misture até obter uma massa homogênea.\n\n6. Faça pequenas bolinhas com a massa e coloque-as em uma assadeira forrada com papel manteiga, deixando espaço entre elas.\n\n7. Leve ao forno preaquecido e asse por cerca de 12 a 15 minutos, ou até que os cookies estejam dourados nas bordas.\n\n8. Retire do forno e deixe esfriar completamente antes de servir.\n\n9. Os cookies de aveia e mel estão prontos para serem aproveitados!"
+  },
+  {
+    "nome": "Suco de Abacaxi com Semente de Girassol",
+    "ingredientes": ["Abacaxi",
+      "Hortelã",
+      "Semente de Girassol"],
+    "imagem": "suco-abacaxi-hortela.jpg",
+    "quantidade": "3 rodelas médias de abacaxi com a casca. \n 2 colheres de sopa de semente de girassol. \n 1 xícara de chá de água mineral gelada. \n 5 ramos de hortelã",
+    "modo": "Primeiramente, deixe a semente de girassol de molho na água por 4 horas. \n Depois bata tudo no liquidificador até ficar bem triturado e tome em seguida."
+  },
+  {
+    "nome": "Chocolate Quente Cremoso",
+    "ingredientes": ["Leite Integral", "Chocolate em pó", "Açúcar branco", "Creme de Leite", "Canela em pau"],
+    "imagem": "chocolate-quente-cremoso.jpg",
+    "quantidade": "4 xícaras de chá de leite integral. \n 6 colheres de sopa de chocolate de pó. \n 8 colheres de sopa de açucar. \n 1 pedaço de canela em pau. \n 2 caixinhas de creme de leite.",
+    "modo": "Em um liquidificador, bata o leite com o chocolate em pó e o açúcar. \n Despeje em uma panela  com a canela e leve no fogo baixo, mexendo sempre até ferver. \n Desligue, adicione o creme de leite e mexa bem até ficar homogêneo. \n Retire a canela e sirva quente."
+  }
+]
